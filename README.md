@@ -1,6 +1,6 @@
 # Lua Learning Material
 
-These are all the lessons I created when learning Lua, they became my Lua course.
+These are all the lessons [Stephen](https://github.com/WeebNetsu) created when learning Lua, they became his Lua course.
 
 Watch the crash course:
 
